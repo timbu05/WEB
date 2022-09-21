@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    height: 100%;
+}
+
+.header_inner{
+    justify-content: space-between;
+    display: flex;
+}
+
+.gif{
+    min-height: 100%;
+    size: 10 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.links{
+    margin: 30px;
+    margin-right: 300px;
+    position: center;
+}
+
+
+.link{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 60px;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    transition: color .2s linear;
+}
+
+.link:hover{
+    color: #686869;
+}
