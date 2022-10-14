@@ -10,7 +10,6 @@ body{
 
 .gif{
     min-height: 100%;
-    size: 10 10px;
     display: flex;
     flex-direction: column;
 }
