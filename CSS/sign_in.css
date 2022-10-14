@@ -1,0 +1,18 @@
+.form-label{
+    color: aliceblue;
+}
+
+.mb-3{
+    padding-left: 30%;
+    padding-top: 2%;
+    padding-right: 30%;
+    margin-bottom: 0px;
+}
+
+.btn-secondary{
+   margin-left: 30%;
+   margin-top: 20px;
+}
+body {
+    background-color: #202121;
+}

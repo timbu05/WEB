@@ -1,0 +1,24 @@
+body{
+    background-color: #202121;
+    height: 100%;
+}
+
+h1{
+    color:aliceblue;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding-top: 1%;
+}
+
+p{
+    color:aliceblue;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+    padding-left: 2%;
+    padding-right: 2%
+}  
+
+.accordion {
+    padding-left: 2%;
+    padding-right: 50%;
+    padding-top: 10px;
+}
